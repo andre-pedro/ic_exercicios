@@ -1,6 +1,6 @@
 # Ciclos
 
-Soluções disponíveis [aqui](05_ciclo_sol.md).
+Soluções disponíveis [aqui](05_ciclos_sol.md).
 
 **1 - Indique a saída produzida pelo seguinte programa em C:**
 
