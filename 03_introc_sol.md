@@ -1,9 +1,9 @@
 # Introdução ao C
 
-Soluções disponíveis [aqui](03_introc_sol.md).
-
 **1 - Indique pelo menos duas vantagens de aprender a linguagem de programação
 C.**
+
+Resposta
 
 **2 - Indente o seguinte programa em C num estilo legível e consistente.**
 
@@ -17,6 +17,8 @@ else { printf("%d e’ impar.", number);
 }
 return 0;}
 ```
+
+Resposta
 
 **3 - Indente o seguinte programa em C num estilo legível e consistente.**
 
@@ -32,6 +34,8 @@ printf("N. digitos: %d", count); return 0;
 }
 ```
 
+Resposta
+
 **4 - Indente o seguinte programa em C num estilo legível e consistente.**
 
 ```
@@ -44,6 +48,8 @@ int i, factorial = 1;
 printf("Factorial de %d = %d\n", n, factorial);
     return 0;}
 ```
+
+Resposta
 
 **5 - Indente o seguinte programa em C num estilo legível e consistente.**
 
@@ -58,3 +64,6 @@ printf("Insere um inteiro positivo: ");  scanf("%d",&number);
  { if (number%i == 0)
  { printf("%d ",i); }
   }    return 0; }
+```
+
+Resposta
