@@ -25,3 +25,9 @@ directa possível.**
 
 **8 - Converta 11 1011 0101 1110<sub>2</sub> em base hexadecimal da forma mais
 directa possível.**
+
+**9 - Converta 111 1110 1100 0110<sub>2</sub> em base octal da forma mais
+directa possível.**
+
+**10 - Converta 101 0010 1001 0111<sub>2</sub> em base octal da forma mais
+directa possível.**

@@ -68,5 +68,23 @@ x %= --y;
 ## Operações relacionais e lógicas
 
 Em breve
+Não esquecer ternário
 
 ## Operações bit a bit
+
+**? - Aplique a operação _shift left_ 3 (`<< 3`) ao valor 0xA9 (_unsigned_
+8-bits) e indique o resultado em decimal. Mostre todos os passos.**
+
+**? - Aplique a operação shift right 2 (`>> 2`) ao valor 0xF4 (_unsigned_
+8-bits) e indique o resultado em decimal. Mostre todos os passos.**
+
+**? - Qual o resultado em decimal da operação XOR (`^`) entre os valores 0xD3
+e 0xF0 (_unsigneds_ de 8-bits)? Mostre todos os passos.**
+
+**? - Assuma que a variável `x` tem o valor 0x3B (_unsigned_ de 8-bits). Qual
+o resultado, em decimal, da seguinte operação (mostre todos os passos):
+`~x & 0x12`.**
+
+**? - Assuma que a variável `x` tem o valor 0xD3 (_unsigned_ de 8-bits). Qual
+o resultado, em octal, da seguinte operação (mostre todos os passos):
+`x | 0x44`.**

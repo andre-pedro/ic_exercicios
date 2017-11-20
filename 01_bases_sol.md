@@ -39,3 +39,13 @@ Resposta
 directa possível.**
 
 Resposta
+
+**9 - Converta 111 1110 1100 0110<sub>2</sub> em base octal da forma mais
+directa possível.**
+
+Resposta
+
+**10 - Converta 101 0010 1001 0111<sub>2</sub> em base octal da forma mais
+directa possível.**
+
+Resposta
