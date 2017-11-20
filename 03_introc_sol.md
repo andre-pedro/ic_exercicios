@@ -67,3 +67,68 @@ printf("Insere um inteiro positivo: ");  scanf("%d",&number);
 ```
 
 Resposta
+
+**6 - Indique pelo menos duas práticas de programação em C.**
+
+Resposta
+
+
+**7 - Indique quais dos seguintes nomes são válidos para variáveis e funções
+em C:**
+
+```
+avatar
+123var
+var123
+_umavar_
+-x
+x-
+x_
+_x
+y5
+5y
+z"
+z'
+ç1
+var!
+valx
+```
+
+Resposta
+
+
+**8 - Indique duas formas de definir constantes em C.**
+
+Resposta
+
+
+**9 - A _keyword_ `sizeof` é uma função ou um operador? Qual é a sua
+funcionalidade?**
+
+Resposta
+
+
+**10 - Como representar literais hexadecimais e octais em código C?**
+
+Resposta
+
+
+**11 - Qual o carácter "escondido" com que terminam todas as strings?**
+
+Resposta
+
+
+**12 - Qual dos seguintes tipos requer mais bits para ser representado?
+`char` ou `int`?**
+
+Resposta
+
+
+**13 - Qual dos seguintes tipos requer mais bits para ser representado?
+`float` ou `double`?**
+
+Resposta
+
+**14 - O que faz o operador `!`?**
+
+Resposta
