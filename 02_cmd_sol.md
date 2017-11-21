@@ -1,7 +1,8 @@
 # Linha de comandos
 
 **1 - Existe um ficheiro de texto `solucao.txt` no `Desktop`. Uma vez aberto o
-terminal, qual o comando ou comandos necessários para ver os conteúdos deste ficheiro?**
+terminal, qual o comando ou comandos necessários para ver os conteúdos deste
+ficheiro?**
 
 Resposta
 
@@ -41,7 +42,8 @@ Resposta
 
 **8 - Tens um documento que costumas abrir muitas vezes chamado
 `lista_de_jogos.txt` guardado em `~/Documents/jogos`. Para facilitar queres
-criar um atalho (_soft link_) para este documento no teu `Desktop`. Uma vez que acabaste de abrir o terminal, qual é o comando para criar este atalho?**
+criar um atalho (_soft link_) para este documento no teu `Desktop`. Uma vez que
+acabaste de abrir o terminal, qual é o comando para criar este atalho?**
 
 Resposta
 
@@ -76,5 +78,33 @@ Resposta
 
 **Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
 deste ficheiro?**
+
+Resposta
+
+**15 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
+obtidos por votos submetidos pelos alunos do curso de Videojogos. Como podes
+obter uma lista ordenada e sem repetições de jogos?**
+
+Resposta
+
+**16 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
+obtidos por votos submetidos pelos alunos do curso de Videojogos. Como podes
+obter o número de vezes que foi votado o jogo Overwatch?**
+
+Resposta
+
+**17 - O comando `history` apresenta uma lista de comandos inseridos pelo
+utilizador no terminal. Como podes obter o número de comandos inseridos até ao
+momento?**
+
+Resposta
+
+**18 - Como podes contar o número de caracteres no ficheiro `mrrobot.txt`,
+presente na pasta atual?**
+
+Resposta
+
+**19 - Como podes obter o número de instâncias do `firefox` atualmente em
+execução no teu PC?**
 
 Resposta

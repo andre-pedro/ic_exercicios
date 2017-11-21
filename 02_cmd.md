@@ -3,7 +3,8 @@
 Soluções disponíveis [aqui](02_cmd_sol.md).
 
 **1 - Existe um ficheiro de texto `solucao.txt` no `Desktop`. Uma vez aberto o
-terminal, qual o comando ou comandos necessários para ver os conteúdos deste ficheiro?**
+terminal, qual o comando ou comandos necessários para ver os conteúdos deste
+ficheiro?**
 
 **2 - Existe uma pasta chamada `MinhaPasta` na área de utilizador, com um
 ficheiro lá dentro de nome `apagar.txt`. Uma vez aberto o terminal, qual o
@@ -29,7 +30,8 @@ respectivo ficheiro. Qual é o comando para o efeito?**
 
 **8 - Tens um documento que costumas abrir muitas vezes chamado
 `lista_de_jogos.txt` guardado em `~/Documents/jogos`. Para facilitar queres
-criar um atalho (_soft link_) para este documento no teu `Desktop`. Uma vez que acabaste de abrir o terminal, qual é o comando para criar este atalho?**
+criar um atalho (_soft link_) para este documento no teu `Desktop`. Uma vez que
+acabaste de abrir o terminal, qual é o comando para criar este atalho?**
 
 **9 - Indica duas formas possíveis de obter o _username_ através da linha de
 comandos.**
@@ -52,3 +54,21 @@ compilar, `./meuprog`?**
 
 **Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
 deste ficheiro?**
+
+**15 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
+obtidos por votos submetidos pelos alunos do curso de Videojogos. Como podes
+obter uma lista ordenada e sem repetições de jogos?**
+
+**16 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
+obtidos por votos submetidos pelos alunos do curso de Videojogos. Como podes
+obter o número de vezes que foi votado o jogo Overwatch?**
+
+**17 - O comando `history` apresenta uma lista de comandos inseridos pelo
+utilizador no terminal. Como podes obter o número de comandos inseridos até ao
+momento?**
+
+**18 - Como podes contar o número de caracteres no ficheiro `mrrobot.txt`,
+presente na pasta atual?**
+
+**19 - Como podes obter o número de instâncias do `firefox` atualmente em
+execução no teu PC?**
