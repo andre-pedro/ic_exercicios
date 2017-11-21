@@ -15,7 +15,9 @@ Computação da [Licenciatura em Aplicações Multimédia e Videojogos][lamv] da
 [Universidade Lusófona de Humanidades e Tecnologias][ULHT] em Lisboa.
 
 Os alunos podem e devem fazer _fork_ deste repositório, clonar o mesmo para o
-seu PC e propor resoluções para os exercícios através de _pull requests_.
+seu PC e propor resoluções para os exercícios (e mesmo novos exercícios)
+através de _pull requests_. A forma de colaboração está descrita em detalhe na
+secção [Colaboração](#colab).
 
 ## Conteúdos
 
@@ -34,6 +36,12 @@ seu PC e propor resoluções para os exercícios através de _pull requests_.
 13. ...
 14. ...
 15. ...
+
+<a name="colab" />
+
+## Colaboração
+
+Em breve.
 
 ## Licenças
 
