@@ -46,9 +46,9 @@ linha de comandos.**
 **13 - Como podes medir o tempo de execução do programa que acabaste de
 compilar, `./meuprog`?**
 
-**14 - Considere a seguinte linha retirada do comando `ls`:
+**14 - Considere a seguinte linha retirada do comando `ls`:**
 
 `-rw-rw-r--  1 joaopaulo users   313837 Jun  7 11:19 alaska.jpg`
 
-Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
+**Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
 deste ficheiro?**
