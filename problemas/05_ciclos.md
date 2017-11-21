@@ -1,8 +1,8 @@
 # Ciclos
 
-Soluções disponíveis [aqui](05_ciclos_sol.md).
+Soluções disponíveis [aqui](../solucoes/05_ciclos_sol.md).
 
-**1 - Indique a saída produzida pelo seguinte programa em C:**
+1 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main() {
 }
 ```
 
-**2 - Indique a saída produzida pelo seguinte programa em C:**
+2 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -28,7 +28,7 @@ int main() {
 }
 ```
 
-**3 - Indique a saída produzida pelo seguinte programa em C:**
+3 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -41,7 +41,7 @@ int main() {
 }
 ```
 
-**4 - Indique a saída produzida pelo seguinte programa em C:**
+4 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>

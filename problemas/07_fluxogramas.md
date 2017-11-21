@@ -1,8 +1,8 @@
 # Fluxogramas
 
-Soluções disponíveis [aqui](07_fluxogramas_sol.md).
+Soluções disponíveis [aqui](../solucoes/07_fluxogramas_sol.md).
 
-**1 - Desenhe o fluxograma do seguinte programa:**
+1 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main() {
 }
 ```
 
-**2 - Desenhe o fluxograma do seguinte programa:**
+2 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -28,7 +28,7 @@ int main() {
 }
 ```
 
-**3 - Desenhe o fluxograma do seguinte programa:**
+3 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -41,7 +41,7 @@ int main() {
 }
 ```
 
-**4 - Desenhe o fluxograma do seguinte programa:**
+4 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>

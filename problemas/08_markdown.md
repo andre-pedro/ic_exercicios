@@ -1,5 +1,5 @@
 # Markdown
 
-Soluções disponíveis [aqui](08_markdown_sol.md).
+Soluções disponíveis [aqui](../solucoes/08_markdown_sol.md).
 
 Em breve

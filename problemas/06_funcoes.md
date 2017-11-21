@@ -1,5 +1,5 @@
 # Funções
 
-Soluções disponíveis [aqui](06_funcoes_sol.md).
+Soluções disponíveis [aqui](../solucoes/06_funcoes_sol.md).
 
 Em breve
