@@ -1,110 +1,110 @@
 # Linha de comandos
 
-**1 - Existe um ficheiro de texto `solucao.txt` no `Desktop`. Uma vez aberto o
+1 - Existe um ficheiro de texto `solucao.txt` no `Desktop`. Uma vez aberto o
 terminal, qual o comando ou comandos necessários para ver os conteúdos deste
-ficheiro?**
+ficheiro?
 
-Resposta
+> Aguarda solução
 
-**2 - Existe uma pasta chamada `MinhaPasta` na área de utilizador, com um
+2 - Existe uma pasta chamada `MinhaPasta` na área de utilizador, com um
 ficheiro lá dentro de nome `apagar.txt`. Uma vez aberto o terminal, qual o
-comando ou comandos necessários para apagar a pasta e o ficheiro?**
+comando ou comandos necessários para apagar a pasta e o ficheiro?
 
-Resposta
+> Aguarda solução
 
-**3 - Quero mover uma pasta chamada `VideosDasFerias` que está atualmente no
+3 - Quero mover uma pasta chamada `VideosDasFerias` que está atualmente no
 `Desktop` para a pasta `Videos` (ambas na área de utilizador). Uma vez aberto o
-terminal, qual o comando ou comandos necessários para efectuar esta mudança?**
+terminal, qual o comando ou comandos necessários para efectuar esta mudança?
 
-Resposta
+> Aguarda solução
 
-**4 - O que fazem os comandos `pwd` e `echo`?**
+4 - O que fazem os comandos `pwd` e `echo`?
 
-Resposta
+> Aguarda solução
 
-**5 - Usando um ou mais comandos disponíveis no terminal, cria um ficheiro
+5 - Usando um ou mais comandos disponíveis no terminal, cria um ficheiro
 contendo a pasta atual numa linha e os conteúdos da variável de ambiente
-`$PATH` noutra.**
+`$PATH` noutra.
 
-Resposta
+> Aguarda solução
 
-**6 - Acabaste um relatório muito importante para uma cadeira do curso de
+6 - Acabaste um relatório muito importante para uma cadeira do curso de
 Videojogos, que guardaste num ficheiro chamado `relatorio.doc`. Para não
 apagares o relatório por engano queres retirar permissões de escrita ao
-respectivo ficheiro. Qual é o comando para o efeito?**
+respectivo ficheiro. Qual é o comando para o efeito?
 
-Resposta
+> Aguarda solução
 
-**7 - Qual o comando para transferires o ficheiro disponível em
-`https://github.com/ulht/relatorio.md` para o teu PC?**
+7 - Qual o comando para transferires o ficheiro disponível em
+`https://github.com/ulht/relatorio.md` para o teu PC?
 
-Resposta
+> Aguarda solução
 
-**8 - Tens um documento que costumas abrir muitas vezes chamado
+8 - Tens um documento que costumas abrir muitas vezes chamado
 `lista_de_jogos.txt` guardado em `~/Documents/jogos`. Para facilitar queres
 criar um atalho (_soft link_) para este documento no teu `Desktop`. Uma vez que
-acabaste de abrir o terminal, qual é o comando para criar este atalho?**
+acabaste de abrir o terminal, qual é o comando para criar este atalho?
 
-Resposta
+> Aguarda solução
 
-**9 - Indica duas formas possíveis de obter o _username_ através da linha de
-comandos.**
+9 - Indica duas formas possíveis de obter o _username_ através da linha de
+comandos.
 
-Resposta
+> Aguarda solução
 
-**10 - Indica duas formas possíveis de obter o nome da pasta atual através da
-linha de comandos.**
+10 - Indica duas formas possíveis de obter o nome da pasta atual através da
+linha de comandos.
 
-Resposta
+> Aguarda solução
 
-**11 - Tens um ficheiro chamado `contactos.txt`. Como podes atualizar a data de
-último acesso e modificação deste ficheiro sem o editares?**
+11 - Tens um ficheiro chamado `contactos.txt`. Como podes atualizar a data de
+último acesso e modificação deste ficheiro sem o editares?
 
-Resposta
+> Aguarda solução
 
-**12 - Indica duas formas possíveis de criares um ficheiro vazio chamado
-`vazio.txt`.**
+12 - Indica duas formas possíveis de criares um ficheiro vazio chamado
+`vazio.txt`.
 
-Resposta
+> Aguarda solução
 
-**13 - Como podes medir o tempo de execução do programa que acabaste de
-compilar, `./meuprog`?**
+13 - Como podes medir o tempo de execução do programa que acabaste de
+compilar, `./meuprog`?
 
-Resposta
+> Aguarda solução
 
-**14 - Considere a seguinte linha retirada do comando `ls`:**
+14 - Considere a seguinte linha retirada do comando `ls`:
 
 `-rw-rw-r--  1 joaopaulo users   313837 Jun  7 11:19 alaska.jpg`
 
-**Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
-deste ficheiro?**
+Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
+deste ficheiro?
 
-Resposta
+> Aguarda solução
 
-**15 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
+15 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
 obtidos por votos submetidos pelos alunos do curso de Videojogos. Como podes
-obter uma lista ordenada e sem repetições de jogos?**
+obter uma lista ordenada e sem repetições de jogos?
 
-Resposta
+> Aguarda solução
 
-**16 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
+16 - O ficheiro `jogos_votos.md` contém uma lista de jogos preferidos,
 obtidos por votos submetidos pelos alunos do curso de Videojogos. Como podes
-obter o número de vezes que foi votado o jogo Overwatch?**
+obter o número de vezes que foi votado o jogo Overwatch?
 
-Resposta
+> Aguarda solução
 
-**17 - O comando `history` apresenta uma lista de comandos inseridos pelo
+17 - O comando `history` apresenta uma lista de comandos inseridos pelo
 utilizador no terminal. Como podes obter o número de comandos inseridos até ao
-momento?**
+momento?
 
-Resposta
+> Aguarda solução
 
-**18 - Como podes contar o número de caracteres no ficheiro `mrrobot.txt`,
-presente na pasta atual?**
+18 - Como podes contar o número de caracteres no ficheiro `mrrobot.txt`,
+presente na pasta atual?
 
-Resposta
+> Aguarda solução
 
-**19 - Como podes obter o número de instâncias do `firefox` atualmente em
-execução no teu PC?**
+19 - Como podes obter o número de instâncias do `firefox` atualmente em
+execução no teu PC?
 
-Resposta
+> Aguarda solução

@@ -1,11 +1,10 @@
 # Introdução ao C
 
-**1 - Indique pelo menos duas vantagens de aprender a linguagem de programação
-C.**
+1 - Indique pelo menos duas vantagens de aprender a linguagem de programação C.
 
-Resposta
+> Aguarda solução
 
-**2 - Indente o seguinte programa em C num estilo legível e consistente.**
+2 - Indente o seguinte programa em C num estilo legível e consistente.
 
 ```
 #include <stdio.h>
@@ -18,9 +17,9 @@ else { printf("%d e’ impar.", number);
 return 0;}
 ```
 
-Resposta
+> Aguarda solução
 
-**3 - Indente o seguinte programa em C num estilo legível e consistente.**
+3 - Indente o seguinte programa em C num estilo legível e consistente.
 
 ```
 #include <stdio.h>
@@ -34,9 +33,9 @@ printf("N. digitos: %d", count); return 0;
 }
 ```
 
-Resposta
+> Aguarda solução
 
-**4 - Indente o seguinte programa em C num estilo legível e consistente.**
+4 - Indente o seguinte programa em C num estilo legível e consistente.
 
 ```
 #include <stdio.h>
@@ -49,9 +48,9 @@ printf("Factorial de %d = %d\n", n, factorial);
     return 0;}
 ```
 
-Resposta
+> Aguarda solução
 
-**5 - Indente o seguinte programa em C num estilo legível e consistente.**
+5 - Indente o seguinte programa em C num estilo legível e consistente.
 
 ```
 #include <stdio.h>
@@ -66,15 +65,14 @@ printf("Insere um inteiro positivo: ");  scanf("%d",&number);
   }    return 0; }
 ```
 
-Resposta
+> Aguarda solução
 
-**6 - Indique pelo menos duas práticas de programação em C.**
+6 - Indique pelo menos duas práticas de programação em C.
 
-Resposta
+> Aguarda solução
 
-
-**7 - Indique quais dos seguintes nomes são válidos para variáveis e funções
-em C:**
+7 - Indique quais dos seguintes nomes são válidos para variáveis e funções
+em C:
 
 ```
 avatar
@@ -94,41 +92,36 @@ var!
 valx
 ```
 
-Resposta
+> Aguarda solução
 
 
-**8 - Indique duas formas de definir constantes em C.**
+8 - Indique duas formas de definir constantes em C.
 
-Resposta
+> Aguarda solução
 
+9 - A _keyword_ `sizeof` é uma função ou um operador? Qual é a sua
+funcionalidade?
 
-**9 - A _keyword_ `sizeof` é uma função ou um operador? Qual é a sua
-funcionalidade?**
+> Aguarda solução
 
-Resposta
+10 - Como representar literais hexadecimais e octais em código C?
 
+> Aguarda solução
 
-**10 - Como representar literais hexadecimais e octais em código C?**
+11 - Qual o carácter "escondido" com que terminam todas as strings?
 
-Resposta
+> Aguarda solução
 
+12 - Qual dos seguintes tipos requer mais bits para ser representado?
+`char` ou `int`?
 
-**11 - Qual o carácter "escondido" com que terminam todas as strings?**
+> Aguarda solução
 
-Resposta
+13 - Qual dos seguintes tipos requer mais bits para ser representado?
+`float` ou `double`?
 
+> Aguarda solução
 
-**12 - Qual dos seguintes tipos requer mais bits para ser representado?
-`char` ou `int`?**
+14 - O que faz o operador `!`?
 
-Resposta
-
-
-**13 - Qual dos seguintes tipos requer mais bits para ser representado?
-`float` ou `double`?**
-
-Resposta
-
-**14 - O que faz o operador `!`?**
-
-Resposta
+> Aguarda solução

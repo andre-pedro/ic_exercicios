@@ -1,6 +1,6 @@
 # Ciclos
 
-**1 - Indique a saída produzida pelo seguinte programa em C:**
+1 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -13,9 +13,9 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
 
-**2 - Indique a saída produzida pelo seguinte programa em C:**
+2 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -28,9 +28,9 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
 
-**3 - Indique a saída produzida pelo seguinte programa em C:**
+3 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -43,9 +43,9 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
 
-**4 - Indique a saída produzida pelo seguinte programa em C:**
+4 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
 #include <stdio.h>
@@ -58,4 +58,4 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução

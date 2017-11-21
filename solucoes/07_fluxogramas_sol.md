@@ -1,6 +1,6 @@
 # Fluxogramas
 
-**1 - Desenhe o fluxograma do seguinte programa:**
+1 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -13,9 +13,9 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
 
-**2 - Desenhe o fluxograma do seguinte programa:**
+2 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -28,10 +28,10 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
 
 
-**3 - Desenhe o fluxograma do seguinte programa:**
+3 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -44,10 +44,10 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
 
 
-**4 - Desenhe o fluxograma do seguinte programa:**
+4 - Desenhe o fluxograma do seguinte programa:
 
 ```c
 #include <stdio.h>
@@ -60,4 +60,4 @@ int main() {
 }
 ```
 
-Resposta
+> Aguarda solução
