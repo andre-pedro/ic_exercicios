@@ -19,16 +19,16 @@ seu PC e propor resoluções para os exercícios através de _pull requests_.
 
 ## Conteúdos
 
-* [Arquitectura de computadores](00_arquitectura.md)
-* [Bases de numeração](01_bases.md)
-* [Linha de comandos](02_cmd.md)
-* [Introdução ao C](03_introc.md)
-* [Operadores e operações](04_operacoes.md)
-* [Ciclos](05_ciclos.md)
-* [Funções](06_funcoes.md)
-* [Fluxogramas](07_fluxogramas.md)
-* [Markdown](08_markdown.md)
-* [Git](09_git.md)
+* [Arquitectura de computadores](problemas/00_arquitectura.md)
+* [Bases de numeração](problemas/01_bases.md)
+* [Linha de comandos](problemas/02_cmd.md)
+* [Introdução ao C](problemas/03_introc.md)
+* [Operadores e operações](problemas/04_operacoes.md)
+* [Ciclos](problemas/05_ciclos.md)
+* [Funções](problemas/06_funcoes.md)
+* [Fluxogramas](problemas/07_fluxogramas.md)
+* [Markdown](problemas/08_markdown.md)
+* [Git](problemas/09_git.md)
 
 ## Licenças
 
