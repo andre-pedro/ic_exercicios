@@ -59,3 +59,25 @@ int main() {
 ```
 
 > [Soluções](../solucoes/06_controlofluxo/04.md)
+
+
+5 - Indique a saída produzida pelo seguinte programa em C:
+
+```c
+#include <stdio.h>
+int main() {
+    int a, b;
+    scanf("%d", &a);
+    scanf("%d", &b);
+    if (a > b) {
+        printf("Valor 'a' maior que 'b'\n");
+    } else if (a < b) {
+        printf("Valor 'a' menor que 'b'\n");
+    } else {
+        printf("So podem ser iguais\n");
+    }
+    return 0;
+}
+```
+
+> [Soluções](../solucoes/06_controlofluxo/05.md)
