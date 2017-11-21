@@ -78,33 +78,52 @@ x %= --y;
 > [Soluções](../solucoes/05_operacoes/08.md)
 
 9 - Aplique a operação _shift left_ 3 (`<< 3`) ao valor 0xA9 (_unsigned_
-8-bits) e indique o resultado em decimal. Mostre todos os passos.
+8-bits) e indique o resultado em decimal. mostra todos os passos.
 
 > [Soluções](../solucoes/05_operacoes/09.md)
 
 10 - Aplique a operação shift right 2 (`>> 2`) ao valor 0xF4 (_unsigned_
-8-bits) e indique o resultado em decimal. Mostre todos os passos.
+8-bits) e indique o resultado em decimal. mostra todos os passos.
 
 > [Soluções](../solucoes/05_operacoes/10.md)
 
 11 - Qual o resultado em decimal da operação XOR (`^`) entre os valores 0xD3
-e 0xF0 (_unsigneds_ de 8-bits)? Mostre todos os passos.
+e 0xF0 (_unsigneds_ de 8-bits)? mostra todos os passos.
 
 > [Soluções](../solucoes/05_operacoes/11.md)
 
-12 - Assuma que a variável `x` tem o valor 0x3B (_unsigned_ de 8-bits). Qual
-o resultado, em decimal, da seguinte operação (mostre todos os passos):
+12 - Assume que a variável `x` tem o valor 0x3B (_unsigned_ de 8-bits). Qual
+o resultado, em decimal, da seguinte operação (mostra todos os passos):
 `~x & 0x12`.
 
 > [Soluções](../solucoes/05_operacoes/12.md)
 
-13 - Assuma que a variável `x` tem o valor 0xD3 (_unsigned_ de 8-bits). Qual
-o resultado, em octal, da seguinte operação (mostre todos os passos):
+13 - Assume que a variável `x` tem o valor 0xD3 (_unsigned_ de 8-bits). Qual
+o resultado, em octal, da seguinte operação (mostra todos os passos):
 `x | 0x44`.
 
 > [Soluções](../solucoes/05_operacoes/13.md)
 
-## Em falta
+14 - Assumindo que `x` tem o valor 3 e `y` o valor 4, qual o resultado da
+seguinte operação (mostra todos os passos):
+`(x > y) || !(y <= 10)`
 
-Operações relacionais e lógicas
-Operador ternário
+> [Soluções](../solucoes/05_operacoes/14.md)
+
+15 - Assumindo que `x` tem o valor 3 e `y` o valor 4, qual o resultado da
+seguinte operação (mostra todos os passos):
+`((x | y) > 5) || ((x & ~y) < 3)`
+
+> [Soluções](../solucoes/05_operacoes/15.md)
+
+16 - Assumindo que `x` tem o valor -5 e `y` o valor 5, e que ambas as variáveis
+são do tipo `char`, qual o resultado da seguinte operação (mostra todos os passos):
+`((x ^ y) < 0xF) && !(x == y))`
+
+> [Soluções](../solucoes/05_operacoes/16.md)
+
+17 - Assumindo que `x` tem o valor -2 e `y` o valor 7, qual o resultado da
+seguinte operação (mostra todos os passos):
+`x >= y ? ~x : ~y`
+
+> [Soluções](../solucoes/05_operacoes/17.md)
