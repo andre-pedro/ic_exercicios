@@ -13,7 +13,7 @@ int main() {
 }
 ```
 
-> [Soluções](../solucoes/06_ciclos/01.md)
+> [Soluções](../solucoes/06_controlofluxo/01.md)
 
 2 - Indique a saída produzida pelo seguinte programa em C:
 
@@ -28,7 +28,7 @@ int main() {
 }
 ```
 
-> [Soluções](../solucoes/06_ciclos/02.md)
+> [Soluções](../solucoes/06_controlofluxo/02.md)
 
 3 - Indique a saída produzida pelo seguinte programa em C:
 
@@ -43,7 +43,7 @@ int main() {
 }
 ```
 
-> [Soluções](../solucoes/06_ciclos/03.md)
+> [Soluções](../solucoes/06_controlofluxo/03.md)
 
 4 - Indique a saída produzida pelo seguinte programa em C:
 
@@ -58,4 +58,4 @@ int main() {
 }
 ```
 
-> [Soluções](../solucoes/06_ciclos/04.md)
+> [Soluções](../solucoes/06_controlofluxo/04.md)

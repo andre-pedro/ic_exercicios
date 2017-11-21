@@ -26,7 +26,7 @@ secção [Colaboração](#colab).
 3. [Linha de comandos](problemas/03_cmd.md)
 4. [Introdução ao C](problemas/04_introc.md)
 5. [Operadores e operações](problemas/05_operacoes.md)
-6. [Ciclos](problemas/06_ciclos.md)
+6. [Controlo de fluxo](problemas/06_controlofluxo.md)
 7. [Funções](problemas/07_funcoes.md)
 8. [Fluxogramas](problemas/08_fluxogramas.md)
 9. [Markdown](problemas/09_markdown.md)
