@@ -1,7 +1,5 @@
 # Fluxogramas
 
-Soluções disponíveis [aqui](../solucoes/07_fluxogramas_sol.md).
-
 1 - Desenhe o fluxograma do seguinte programa:
 
 ```c
@@ -14,6 +12,8 @@ int main() {
     return 0;
 }
 ```
+
+> [Soluções](../solucoes/07_fluxogramas/01.md)
 
 2 - Desenhe o fluxograma do seguinte programa:
 
@@ -28,6 +28,8 @@ int main() {
 }
 ```
 
+> [Soluções](../solucoes/07_fluxogramas/02.md)
+
 3 - Desenhe o fluxograma do seguinte programa:
 
 ```c
@@ -41,6 +43,8 @@ int main() {
 }
 ```
 
+> [Soluções](../solucoes/07_fluxogramas/03.md)
+
 4 - Desenhe o fluxograma do seguinte programa:
 
 ```c
@@ -53,3 +57,5 @@ int main() {
     return 0;
 }
 ```
+
+> [Soluções](../solucoes/07_fluxogramas/04.md)

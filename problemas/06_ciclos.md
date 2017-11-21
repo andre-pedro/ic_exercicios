@@ -1,7 +1,5 @@
 # Ciclos
 
-Soluções disponíveis [aqui](../solucoes/05_ciclos_sol.md).
-
 1 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
@@ -14,6 +12,8 @@ int main() {
     return 0;
 }
 ```
+
+> [Soluções](../solucoes/06_ciclos/01.md)
 
 2 - Indique a saída produzida pelo seguinte programa em C:
 
@@ -28,6 +28,8 @@ int main() {
 }
 ```
 
+> [Soluções](../solucoes/06_ciclos/02.md)
+
 3 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
@@ -41,6 +43,8 @@ int main() {
 }
 ```
 
+> [Soluções](../solucoes/06_ciclos/03.md)
+
 4 - Indique a saída produzida pelo seguinte programa em C:
 
 ```c
@@ -53,3 +57,5 @@ int main() {
     return 0;
 }
 ```
+
+> [Soluções](../solucoes/06_ciclos/04.md)

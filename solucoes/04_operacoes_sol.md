@@ -1,3 +1,0 @@
-# Aritmética binária
-
-Em breve

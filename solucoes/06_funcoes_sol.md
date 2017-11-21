@@ -1,3 +1,0 @@
-# Funções
-
-Em breve
