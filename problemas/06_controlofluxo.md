@@ -1,4 +1,4 @@
-# Ciclos
+# Controlo de fluxo
 
 1 - Indique a saída produzida pelo seguinte programa em C:
 
