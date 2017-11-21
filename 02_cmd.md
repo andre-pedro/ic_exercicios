@@ -14,3 +14,41 @@ comando ou comandos necessários para apagar a pasta e o ficheiro?**
 terminal, qual o comando ou comandos necessários para efectuar esta mudança?**
 
 **4 - O que fazem os comandos `pwd` e `echo`?**
+
+**5 - Usando um ou mais comandos disponíveis no terminal, cria um ficheiro
+contendo a pasta atual numa linha e os conteúdos da variável de ambiente
+`$PATH` noutra.**
+
+**6 - Acabaste um relatório muito importante para uma cadeira do curso de
+Videojogos, que guardaste num ficheiro chamado `relatorio.doc`. Para não
+apagares o relatório por engano queres retirar permissões de escrita ao
+respectivo ficheiro. Qual é o comando para o efeito?**
+
+**7 - Qual o comando para transferires o ficheiro disponível em
+`https://github.com/ulht/relatorio.md` para o teu PC?**
+
+**8 - Tens um documento que costumas abrir muitas vezes chamado
+`lista_de_jogos.txt` guardado em `~/Documents/jogos`. Para facilitar queres
+criar um atalho (_soft link_) para este documento no teu `Desktop`. Uma vez que acabaste de abrir o terminal, qual é o comando para criar este atalho?**
+
+**9 - Indica duas formas possíveis de obter o _username_ através da linha de
+comandos.**
+
+**10 - Indica duas formas possíveis de obter o nome da pasta atual através da
+linha de comandos.**
+
+**11 - Tens um ficheiro chamado `contactos.txt`. Como podes atualizar a data de
+último acesso e modificação deste ficheiro sem o editares?**
+
+**12 - Indica duas formas possíveis de criares um ficheiro vazio chamado
+`vazio.txt`.**
+
+**13 - Como podes medir o tempo de execução do programa que acabaste de
+compilar, `./meuprog`?**
+
+**14 - Considere a seguinte linha retirada do comando `ls`:
+
+`-rw-rw-r--  1 joaopaulo users   313837 Jun  7 11:19 alaska.jpg`
+
+Qual é o grupo a que pertence o proprietário deste ficheiro? Qual é o tamanho
+deste ficheiro?**
