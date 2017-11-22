@@ -56,10 +56,10 @@ exercício, deve seguir a numeração e formatação dos exercícios anteriores.
 opcionalmente adicionar a autoria do exercício através de um _link_ à sua
 página do GitHub.
 
-As soluções estao na pasta [solucoes](solucoes). Por sua vez, cada sub-pasta
+As soluções estão na pasta [solucoes](solucoes). Por sua vez, cada sub-pasta
 contém uma série de ficheiros Markdown com as soluções dos exercícios de
 determinada parte da matéria. Cada ficheiro corresponde a uma ou mais soluções
-de apenas um dos exercícios. Se o aluno apresentar uma nova solução, Pode
+de apenas um dos exercícios. Se o aluno apresentar uma nova solução, pode
 opcionalmente assinar a autoria da mesma através de um _link_ à sua página do
 GitHub.
 
@@ -75,8 +75,8 @@ por ai fora.
 
 1. Cria uma cópia (*fork*) deste repositório (tipicamente denominado
 _upstream_) na tua conta do GitHub (botão **Fork** no canto superior direito).
-A cópia cópia do repositório na tua conta é geralmente chamada _origin_.
-2. Obtem uma cópia local (no teu PC) do repositório _origin_ com o comando
+A cópia do repositório na tua conta é geralmente chamada _origin_.
+2. Obtém uma cópia local (no teu PC) do repositório _origin_ com o comando
 `git clone https://github.com/OTeuUserName/ic_exercicios.git` (substituir
 `OTeuUserName` pelo teu nome de utilizador no GitHub).
 3. Dar conhecimento ao teu repositório local da existência do repositório
@@ -107,7 +107,8 @@ teu ramo _master_:
       ramo. Os dois comandos podem ser compactados num só:
       `$ git checkout -b meu_ramo`.
 2. Uma vez no novo ramo, faz as alterações/propostas às soluções e/ou aos
-exercícios. Cada alteração/proposta deve ser especificada com um _commit_:
+exercícios. Cada alteração/proposta deve ser especificada com pelo menos um
+_commit_:
     - `$ git add nome_dos_ficheiros_alterados`
     - `$ git commit -m "Descrição das alterações efetuadas"`
 3. O `novo_ramo` deve ser carregado (_pushed_) para o repositório _origin_ (ou
@@ -126,7 +127,7 @@ exercícios (_upstream_). Para o efeito basta clicar no botão
     - Clica no botão verde **Create pull request**, e deixa uma pequena
     descrição da razão do pedido de integração, clicando depois novamente em
     **Create pull request**.
-5. Caso o _pull request_ não tenha sido aceite, volta ao ponto 3.
+5. Caso o _pull request_ não tenha sido aceite, volta ao ponto 2.
 6. Caso o _pull request_ tenha sido aceite, podes seguir os passos indicados
 em [Colaborações seguintes](#colabseg), de modo a juntares as alterações que
 propuseste ao teu ramo `master`. Posteriormente podes eliminar o `meu_ramo`
