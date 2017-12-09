@@ -34,11 +34,17 @@ secção [Colaboração](#colab).
 8. [Fluxogramas](problemas/08_fluxogramas.md)
 9. [Markdown](problemas/09_markdown.md)
 10. [Git](problemas/10_git.md)
-11. ...
-12. ...
-13. ...
-14. ...
-15. ...
+11. [Arrays e apontadores](problemas/11_arrays.md)
+12. [Strings](problemas/12_strings.md)
+13. [Ficheiros](problemas/13_ficheiros.md)
+<!--
+14. [Estruturas e definição de tipos](problemas/14_structs.md)
+15. [Organização de um programa](problemas/15_org.md)
+16. [Documentação com Doxygen](problemas/16_doxy.md)
+17. [Gestão dinâmica da memória](problemas/17_mem.md)
+18. [Estruturas de dados](problemas/18_aed.md)
+19. [Bibliotecas externas: G2](problemas/19_bibg2.md)
+-->
 
 <a name="colab" />
 
