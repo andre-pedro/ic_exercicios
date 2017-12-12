@@ -21,9 +21,9 @@ programa (`master`). Qual o comando ou comandos para o efeito?
 
 4 - Estás a trabalhar com o teu colega no projeto final de IC, e o teu colega
 criou alguns ramos e fez _push_ de algumas alterações no servidor remoto
-(localmente conhecido como `mygithub`). Qual o comando para
-obteres/descarregares todas as alterações efectuadas no repositório remoto
-(incluindo novos ramos) para o teu repositório local?
+(localmente conhecido como `mygithub`). Qual o comando para o teu repositório
+local ficar com conhecimento sobre todas as alterações efectuadas no
+repositório remoto (incluindo novos ramos)?
 
 > [Soluções](../solucoes/10_git/04.md)
 
