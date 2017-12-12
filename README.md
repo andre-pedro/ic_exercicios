@@ -150,7 +150,8 @@ O código associado aos exercícios é disponibilizado através da licença [GPL
 
 * Autor: [Nuno Fachada]
 * Colaboradores: [Tiago Ferreira Alves](https://github.com/synpse),
-  [Rui Martins](https://github.com/rui-martins)
+  [Rui Martins](https://github.com/rui-martins),
+  [João Duarte](https://github.com/JoaoAlexandreDuarte), Inês Gonçalves
 * Curso: [Licenciatura em Aplicações Multimédia e Videojogos][lamv]
 * Instituição: [Universidade Lusófona de Humanidades e Tecnologias][ULHT]
 
