@@ -19,7 +19,7 @@ justifica a tua resposta.
 
 ```c
 /* Variaveis */
-unsigned char a[4] = {10, 20, 30, 40, 50};
+unsigned char a[5] = {10, 20, 30, 40, 50};
 int *puc;
 void *pg;
 
