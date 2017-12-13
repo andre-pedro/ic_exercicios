@@ -2,7 +2,8 @@
 
 1 - Completa o código da seguinte função, cujo objectivo é converter todos os
 espaços numa string em underscores. Por exemplo, a string "Bem vindo a Lisboa!"
-seria transformada em "Bem_vindo_a_Lisboa".
+seria transformada em "Bem_vindo_a_Lisboa". Não use funções da biblioteca
+`string.h`.
 
 ```c
 void subst_espacos_por_underscores(char *string)
@@ -15,6 +16,7 @@ void subst_espacos_por_underscores(char *string)
 
 2 - Completa o código da seguinte função, cujo objectivo é contar o número de
 caracteres existentes numa string (ou seja, determinar o comprimento da string).
+Não use funções da biblioteca `string.h`.
 
 ```c
 void comprimento_string(char *string)
@@ -28,7 +30,8 @@ void comprimento_string(char *string)
 3 - Completa o código da seguinte função, cujo objectivo é comparar se duas
 strings são iguais, independentemente de minúsculas e maiúsculas. Por exemplo,
 a função deve devolver 1 (`TRUE`) para as strings "Ola" e "OLA", mas deve
-devolver 0 (`FALSE`) para as strings "Ola" e "Ole".
+devolver 0 (`FALSE`) para as strings "Ola" e "Ole". Não use funções da
+biblioteca `string.h`.
 
 ```c
 void compara_strings_indep_maiusc(char *str1, char *str2)
@@ -42,7 +45,7 @@ void compara_strings_indep_maiusc(char *str1, char *str2)
 4 - Completa o código da função `quantas_vezes`, cujo objectivo é devolver o
 número de vezes que determinado carácter (dado pela variável `c`) ocorre numa
 string. Por exemplo, a chamada `quantas_vezes("Universidade Lusofona", 'a')
-deve devolver 2.
+deve devolver 2. Não use funções da biblioteca `string.h`.
 
 ```c
 void quantas_vezes(char *string, char c)
