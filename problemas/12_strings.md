@@ -19,7 +19,7 @@ caracteres existentes numa string (ou seja, determinar o comprimento da string).
 Não use funções da biblioteca `string.h`.
 
 ```c
-void comprimento_string(char *string)
+int comprimento_string(char *string)
 {
     /* Codigo aqui. */
 }
@@ -34,7 +34,7 @@ devolver 0 (`FALSE`) para as strings "Ola" e "Ole". Não use funções da
 biblioteca `string.h`.
 
 ```c
-void compara_strings_indep_maiusc(char *str1, char *str2)
+int compara_strings_indep_maiusc(char *str1, char *str2)
 {
     /* Codigo aqui. */
 }
@@ -48,7 +48,7 @@ string. Por exemplo, a chamada `quantas_vezes("Universidade Lusofona", 'a')
 deve devolver 2. Não use funções da biblioteca `string.h`.
 
 ```c
-void quantas_vezes(char *string, char c)
+int quantas_vezes(char *string, char c)
 {
     /* Codigo aqui. */
 }
