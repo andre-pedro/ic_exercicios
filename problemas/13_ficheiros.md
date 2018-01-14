@@ -148,3 +148,17 @@ int main(int argc, char *argv[]) {
 ```
 
 > [Soluções](../solucoes/13_ficheiros/04.md)
+
+5 - Escreve um programa em C para guardar, num ficheiro chamado "ascii.txt", o
+valor ASCII em hexadecimal de cada um dos caracteres dos argumentos passados na
+linha de comandos. Deve haver um espaço entre cada valor ASCII. Cada argumento
+deve estar numa linha consecutiva do ficheiro. Por exemplo, se o programa for
+chamado com os argumentos "ola adeus", os conteúdos do ficheiro "ascii.txt"
+devem ser:
+
+```
+4f 6c 61
+41 64 65 75 73
+```
+
+> [Soluções](../solucoes/13_ficheiros/05.md)

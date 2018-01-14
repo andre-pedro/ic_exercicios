@@ -48,7 +48,13 @@ assumindo que variáveis do tipo `long` têm 64 bits? Explica o teu raciocínio.
 
 > [Soluções](../solucoes/11_arrays/03.md)
 
-4 - Indica o que é impresso no ecrã pelo seguinte programa, explicando o que
+4 - A variável `p` é um apontador para `short`, apontando inicialmente para o
+endereço de memória 0xEF02. Qual o valor de `p` após a operação `p -= 4`
+assumindo que variáveis do tipo `short` têm 16 bits? Explica o teu raciocínio.
+
+> [Soluções](../solucoes/11_arrays/04.md)
+
+5 - Indica o que é impresso no ecrã pelo seguinte programa, explicando o que
 fazem cada uma das instruções entre os comentários `START` e `END`:
 
 ```c
@@ -80,4 +86,25 @@ int main() {
 }
 ```
 
-> [Soluções](../solucoes/11_arrays/04.md)
+> [Soluções](../solucoes/11_arrays/05.md)
+
+6 - Completa o código da seguinte função, cujo objectivo é fazer uma soma de
+prefixos de um array, isto é, cada elemento do array passa a ser igual a ele
+próprio mais o anterior. Por exemplo, o array |2|3|1|0|4| seria transformado em
+`|2|5|6|6|10|`. A variável tamanho representa o tamanho do array.
+
+```c
+void somaprefixos(int *array, int tamanho) {
+    /* Inserir codigo aqui */
+}
+```
+
+> [Soluções](../solucoes/11_arrays/06.md)
+
+7 - Escreve um programa em C que peça ao utilizador para preencher um array
+bidimensional de inteiros com dimensões 3x2, e depois solicite as coordenadas
+de um dos elementos do array e o imprima no ecrã. Se as coordenadas inseridas
+estiverem fora dos limites do array, o programa deve terminar com uma mensagem
+de erro.
+
+> [Soluções](../solucoes/11_arrays/07.md)
