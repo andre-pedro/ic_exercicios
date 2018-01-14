@@ -136,3 +136,8 @@ while (ps <= &as[9]) {
 ```
 
 > [Soluções](../solucoes/11_arrays/09.md)
+
+10 - Escreve um programa em C que converte os argumentos passados na linha de
+comandos em _doubles_, obtém a respetiva média, e mostra-a no ecrã.
+
+> [Soluções](../solucoes/11_arrays/10.md)
