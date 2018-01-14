@@ -39,7 +39,7 @@ secção [Colaboração](#colab).
 13. [Ficheiros](problemas/13_ficheiros.md)
 14. [Tipos compostos](problemas/14_tipos.md)
 15. [Gestão dinâmica da memória](problemas/15_mem.md)
-16. [Organização de um programa](problemas/16_org.md)
+16. [Organização de programas](problemas/16_org.md)
 17. [Estruturas de dados e algoritmos](problemas/17_aed.md)
 18. [Documentação com Doxygen](problemas/18_doxy.md)
 19. [Bibliotecas externas: G2](problemas/19_bib_g2.md)
