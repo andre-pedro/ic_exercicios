@@ -108,3 +108,31 @@ estiverem fora dos limites do array, o programa deve terminar com uma mensagem
 de erro.
 
 > [Soluções](../solucoes/11_arrays/07.md)
+
+8 - Escreve as instruções C que fazem o seguinte:
+
+1. Declara um apontador para inteiro e inicializa-o a `NULL`.
+2. Declara um apontador para apontador para inteiro e inicializa-o com o
+   endereço de memória do apontador declarado na instrução anterior.
+3. Declara uma variável do tipo _double_.
+4. Declara um apontador constante para _double_ e inicializa-o com o endereço
+   de memória da variável do tipo _double_ declarada na instrução anterior.
+
+Pergunta: é possível modificar o valor referenciado (apontado) pelo apontador
+constante declarado na alínea 4?
+
+> [Soluções](../solucoes/11_arrays/08.md)
+
+9 - Transforma o seguinte código de modo a que apenas use notação de arrays e
+manipulação de índices:
+
+```c
+short as[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+short *ps = &as[0];
+while (ps <= &as[9]) {
+    printf("ps aponta para %d\n", *ps);
+    ++ps;
+}
+```
+
+> [Soluções](../solucoes/11_arrays/09.md)
