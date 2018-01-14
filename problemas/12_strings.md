@@ -135,3 +135,15 @@ char **explode(char *string, char separador) {
 ```
 
 > [Soluções](../solucoes/12_strings/10.md)
+
+11 - No seguinte código o que faz a instrução que contém o `while`? Justifica a
+tua resposta.
+
+```c
+    char *s = "Ola mundo";
+    char d[10];
+    ...
+    while (*d++ = *s++);
+```
+
+> [Soluções](../solucoes/12_strings/11.md)
