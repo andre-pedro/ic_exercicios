@@ -162,3 +162,34 @@ devem ser:
 ```
 
 > [Soluções](../solucoes/13_ficheiros/05.md)
+
+6 - Escreve um programa em C para converter caracteres de `a` a `z` para
+maiúsculas, deixando os restantes caracteres inalterados. O programa escreve
+sempre para _stdout_ e por omissão lê de _stdin_. No entanto se for passado um
+argumento na linha de comandos, o programa deve interpretar esse argumento como
+um nome de ficheiro e ler desse ficheiro, caso exista.
+
+> [Soluções](../solucoes/13_ficheiros/06.md)
+
+7 - Melhora o programa anterior de modo a aceitar uma opção, `-m` ou `-M`, para
+efetuar a conversão para minúsculas ou maiúsculas, respetivamente. Esta opção é
+obrigatória, mas o programa deve aceitar ainda uma segunda opção indicando o
+nome do ficheiro a ler. Se este ficheiro não for indicado, o programa deve ler
+de _stdin_.
+
+> [Soluções](../solucoes/13_ficheiros/07.md)
+
+8 - Escreve um programa em C para codificar e descodificar strings (adicionando
+ou removendo um valor inteiro constante ao código ASCII de cada carácter). O
+modo de uso do programa é o seguinte:
+
+```
+./codif (-c|-d) [FILE_IN [FILE_OUT]]
+```
+
+As opções `-c` e `-d`, representam codificação e descodificação, respetivamente,
+e é necessário que o utilizador indique uma e apenas uma delas. Por omissão o
+programa lê de _stdin_ e escreve para _stdout_, mas o utilizador pode indicar
+opcionalmente um ficheiro de entrada e um ficheiro de saída.
+
+> [Soluções](../solucoes/13_ficheiros/08.md)
