@@ -34,6 +34,8 @@ void *my_calloc(size_t num_elementos, size_t tamanho_de_cada_elemento) {
 
 > [Soluções](../solucoes/15_mem/03.md)
 
+<a name="p4" />
+
 4 - Completa o código das funções `player_new()` e `player_destroy()`, que
 inicializam e destroem um apontador para uma variável do tipo `PLAYER`,
 respetivamente.
@@ -81,6 +83,8 @@ void player_destroy(PLAYER *player) {
 ```
 
 > [Soluções](../solucoes/15_mem/04.md)
+
+<a name="p5" />
 
 5 - Escreve um programa em C que faça uso das funções do problema anterior,
 peça ao utilizador um valor _n_ (número de _players_), e para cada _player_
