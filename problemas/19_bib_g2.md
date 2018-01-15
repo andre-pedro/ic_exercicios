@@ -20,7 +20,8 @@ int main() {
     getchar();
     g2_close(dev);
     return 0;
-}```
+}
+```
 
 *Nota: Podes carregar figuras não vetoriais para o GitHub criando um novo
 [issue](https://github.com/VideojogosLusofona/ic_exercicios/issues) e
