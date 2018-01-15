@@ -28,6 +28,8 @@ int tecla_esta_pressionada(int estado, enum tecla t);
 
 > [Soluções](../solucoes/16_org/01.md)
 
+<a name="p2" />
+
 2 - Considera a seguinte interface disponibilizada no ficheiro "rectangulo.h":
 
 ```c
@@ -71,6 +73,8 @@ sua área.
 
 > [Soluções](../solucoes/16_org/02.md)
 
+<a name="p3" />
+
 3 - Escreve um programa em C  (ficheiro "rectangulo.c") com uma possível
 implementação da interface apresentada na pergunta anterior. A área de um
 rectângulo é dada por `|x2 - x1| * |y2 - y1|` (onde se assume que `|x|` é o
@@ -100,10 +104,14 @@ double rectangulo_area(RECTANGULO *r) {
 
 > [Soluções](../solucoes/16_org/03.md)
 
+<a name="p4" />
+
 4 - A partir do código desenvolvido nos dois problemas anteriores, escreve uma
 `Makefile` para criar uma _build_ do programa "testar_rectangulo.c".
 
 > [Soluções](../solucoes/16_org/04.md)
+
+<a name="p5" />
 
 5 - Considera o problema [4](15_mem.md#p4) da secção
 [Gestão dinâmica da memória](15_mem.md). Organiza o código de modo a que tenhas
