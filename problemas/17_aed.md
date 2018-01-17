@@ -71,7 +71,7 @@ double *sort_doubles(double *array_in, int tamanho) {
 
 > [Soluções](../solucoes/17_aed/04.md)
 
-5 - A ficheiro "fila.h" mostrado em baixo constitui uma interface para uma
+5 - O ficheiro "fila.h" mostrado em baixo constitui uma interface para uma
 estrutura de dados para tipos genéricos chamada
 [Fila](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)), na qual o
 primeiro objeto a entrar é o primeiro a sair. Escreve o código do ficheiro
