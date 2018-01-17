@@ -155,7 +155,7 @@ struct ponto { double x; double y; };
 > [Soluções](../solucoes/14_tipos/08.md)
 
 9 - Reescreve o código da `struct fps_player` e da função `preenche`
-([exercício 6](#p6)) de modo a que a estrutura em questão se passe a chmar
+([exercício 6](#p6)) de modo a que a estrutura em questão se passe a chamar
 `FPS_PLAYER`.
 
 > [Soluções](../solucoes/14_tipos/09.md)
